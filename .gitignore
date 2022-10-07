@@ -4,6 +4,15 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### TO GITHUB IGNORE ###
+settings.gradle
+gradlew.bat
+gradlew
+build.gradle
+gradle/wrapper
+.idea
+
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
